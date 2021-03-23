@@ -1,0 +1,3 @@
+name: local-storage-operator
+namespace: local-storage
+version: local-storage-operator.4.7.0-202103060100.p0

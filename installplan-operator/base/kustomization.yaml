@@ -1,0 +1,5 @@
+namespace: installplan-operator
+
+resources:
+  - serviceaccount.yaml
+  - deployment.yaml
